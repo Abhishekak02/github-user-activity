@@ -5,7 +5,7 @@ A Python command-line application that fetches and displays recent public activi
 ## Project URL
 
 https://github.com/Abhishekak02/github-user-activity
-
+https://roadmap.sh/projects/github-user-activity
 ## Features
 
 - Fetch recent public GitHub events.
